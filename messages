@@ -1,0 +1,4 @@
+Oct 27 00:00:40 10CKM10 kernel: [1088822.709994]  in RtaUtil.exe[400000+4d5000]
+Oct 27 00:00:40 10CKM10 kernel: [1088822.709996] Code: 44 00 48 83 7d 00 00 0f 84 7e 03 00 00 80 3b 00 0f 84 ad 02 00 00 48 8b 45 00 48 85 c0 0f 84 21 03 00 00 48 8b b8 f0 0c 00 00 <83> 7f 38 1b 76 2c 4c 8b 77 48 41 80 be 62 03 00 00 00 49 8d 96 60
+Oct 27 00:00:50 10CKM10 kernel: [1088832.707337] RtaUtil.exe[38319]: segfault at 38 ip 00000000006c32df sp 00007ffdb3fd1af0 error 4 in RtaUtil.exe[400000+4d5000]
+Oct 27 00:20:00 10CKM10 kernel: [1088832.707337] RtaUtil.exe[38319]: segfault at 38 ip 00000000006c32df sp 00007ffdb3fd1af0 error 4 in RtaUtil.exe[400000+4d5000]

@@ -7,5 +7,5 @@ def is_prime(number):
             return False    
     return True
 
-print(is_prime(3))
+print(is_prime(997))
 print(is_prime(4))
